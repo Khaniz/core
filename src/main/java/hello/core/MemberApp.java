@@ -16,5 +16,6 @@ public class MemberApp {
         System.out.println("new member = " + member.getName());
         System.out.println("find Member = " + findMember.getName());
 
+        //0822 have to start
     }
 }

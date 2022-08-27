@@ -17,5 +17,7 @@ public class MemberApp {
         System.out.println("find Member = " + findMember.getName());
 
         //0822 have to start
+
+        //와 벌써 5일이나 지나있네
     }
 }

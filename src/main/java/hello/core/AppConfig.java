@@ -28,4 +28,6 @@ public class AppConfig {
 //        return new FixDiscountPolicy();
         return new RateDiscountPolicy();
     }
+
+    //IOC, DI, Container
 }
